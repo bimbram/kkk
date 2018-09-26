@@ -1,0 +1,44 @@
+Preface
+-------
+You should be able to make your software do what you want it to do (within the reasonable limits of its capabilities, of course).
+
+The key to attaining this power lies in understanding the fundamentals of what the software does and  how it works, and that's what this book is all about
+
+Linux is a great platform for learning because it doesn't try to hide anything from you. In particular, most system configuration can be found in plaintext files that are easy enough to read. The only tricky part is figuring out which parts are responsible for what and how it all fits together.
+
+Who Should Read This Book?
+---------------------------
+Operations and DevOps folks need to know nearly everything that you'll find in this book.
+
+Then there are tinkeres - people who just love to play around with their computers for fun, profit, or both.
+
+Prerequisites
+-------------
+1. You should be able to bumble around a GUI
+2. Know what files and directories  (folders) are
+3. Be prepared to check additional documentation on your system and on the weeb
+4. Be ready and willing to play around with your computer
+
+How to Read This Book
+----------------------
+Read systematically!
+
+A Hands-On Approach
+---------------------
+You should have a Linux machine in front of you, preferably one that you're confident abusing with experiments
+
+How This Book Is Organized
+-------------------------
+There are three basic parts:
+1. Introductory: giving bird's-eye view of the system and then offering hands on experience with some tools you'll need for as long as you run Linux
+2. Explore each part of the system in more detail, from device management to network configuration, following the general order in which the system starts.
+3. Some pieces of a running system, learn some essential skills, and get some insight into the tools that programmers use
+
+
+What's New in the Second Edition?
+---------------------------------
+If you're interested in Linux and how it relates to the history of Unix, pick up Peter H. Salus's The Daemon, the GNU, and the Penguin
+
+A Note on Terminology
+---------------------
+Throughout this book, the writer tried to use the most common, least awkward names possible (GNU/Linux vs Linux)
